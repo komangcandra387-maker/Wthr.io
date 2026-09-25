@@ -1,4 +1,4 @@
-package com.fauzan.wthrio
+package com.candra.wthrio
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
